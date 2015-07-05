@@ -1,0 +1,23 @@
+/* line 56, icons/*.png */
+.icons-sprite, .car, .share {
+  background-image: url('/img/icons-s8c879df17d.png');
+  background-repeat: no-repeat;
+}
+
+/* line 10, ../sass/icon.scss */
+.car {
+  background-position: 0 0;
+  height: 52px;
+  width: 119px;
+}
+
+/* line 13, ../sass/icon.scss */
+.share {
+  background-position: -139px 0;
+  height: 131px;
+  width: 130px;
+}
+
+/*
+compass resize-sprite
+*/
